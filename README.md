@@ -1,7 +1,7 @@
 ## Hi there, I'm Eimy👋
 
 <h1 align="center">Hi 👋, I'm a Software Developer in Progress</h1>
-<h3 align="center">💻 Aspiring Software Developer | 🇬🇹 Guatemala</h3>
+<h3 align="center">💻 Software Developer | 🇬🇹 Guatemala</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Passionate+about+Software+Development;Always+Learning+New+Technologies;Building+Projects%2C+One+Step+at+a+Time" alt="Typing SVG" />
